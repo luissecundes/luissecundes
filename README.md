@@ -2,9 +2,6 @@
 
 <p align="center">My name is Luis Henrique, and I am a Fullstack Developer with expertise in Java (Spring Boot), Javascript/Typescript (ReactJS), and Dart (Flutter). I am passionate about creating robust and dynamic web and mobile applications, leveraging my skills in a diverse range of technologies. With a focus on delivering high-quality and innovative solutions, I thrive in the fast-paced world of software development.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=luissecundes&theme=radical&mode=weekly" />
- </div>
 
  
 <h1>Github Status</h1>
