@@ -1,6 +1,6 @@
 
 
-<p align="center">My name is Luis Henrique, and I am a Fullstack Developer with expertise in PHP (Laravel, Cake and Symfony) and Javascript/Typescript (ReactJS). I am passionate about creating robust and dynamic web and mobile applications, leveraging my skills in a diverse range of technologies. With a focus on delivering high-quality and innovative solutions, I thrive in the fast-paced world of software development.</p>&nbsp;
+<p align="center">My name is Luis Henrique, and I am a Fullstack Developer with expertise in PHP (Laravel), Javascript/Typescript (Angular) and Node.js with Typescript (Nest.js). I am passionate about creating robust and dynamic web and mobile applications, leveraging my skills in a diverse range of technologies. With a focus on delivering high-quality and innovative solutions, I thrive in the fast-paced world of software development.</p>&nbsp;
 
 
  
@@ -20,11 +20,13 @@
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
-![CakePHP](https://img.shields.io/badge/CakePHP-E73724?style=for-the-badge&logo=cakephp&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-8B4F9D?style=for-the-badge&logo=symfony&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Nest.js](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
+
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
