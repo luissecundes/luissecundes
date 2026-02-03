@@ -3,28 +3,22 @@
 <p align="center">My name is Luis Henrique, and I am a Fullstack Developer with expertise in Typescript (Angular), Node.js with Typescript (Nest.js) and PHP (Laravel),. I am passionate about creating robust and dynamic web and mobile applications, leveraging my skills in a diverse range of technologies. With a focus on delivering high-quality and innovative solutions, I thrive in the fast-paced world of software development.</p>&nbsp;
 
 
- 
-<h1>Github Status</h1>
-
-  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=luissecundes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luissecundes&layout=compact&langs_count=16&theme=dark"/>
- 
- &nbsp;
- &nbsp;
-
 
 
 ## My Skills
 
 #### Main Stack:
 
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Spring%20Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![Nest.js](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+
 
 
 
